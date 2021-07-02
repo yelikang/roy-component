@@ -1,11 +1,12 @@
 {
   "name": "roy-request",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roy",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "37c03637de8b4e599e50cbaa841571783362e710"
 }
