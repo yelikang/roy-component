@@ -1,0 +1,5 @@
+32 error Error: Command failed: git tag v0.0.1 -m v0.0.1
+32 error fatal: tag 'v0.0.1' already exists
+32 error
+32 error     at makeError (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:174:9)
+32 error     at Promise.all.then.arr (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:278:16)
