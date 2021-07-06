@@ -1,5 +1,5 @@
-44 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
-44 error fatal: unable to access 'http://github.com/yelikang/roy-component.git/': Failed to connect to github.com port 443: Timed out
-44 error
-44 error     at makeError (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:174:9)
-44 error     at Promise.all.then.arr (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:278:16)
+48 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+48 error fatal: unable to access 'http://github.com/yelikang/roy-component.git/': Failed to connect to github.com port 443: Timed out
+48 error
+48 error     at makeError (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:174:9)
+48 error     at Promise.all.then.arr (D:\node_install\node_global\node_modules\lerna\node_modules\execa\index.js:278:16)
