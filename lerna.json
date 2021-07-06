@@ -2,5 +2,10 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "command":{
+    "publish":{
+      "registry":"http://81.69.46.219:7001"
+    }
+  }
 }
