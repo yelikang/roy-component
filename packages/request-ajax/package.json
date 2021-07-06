@@ -1,6 +1,6 @@
 {
   "name": "roy-request-ajax",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "Roy",
   "license": "ISC",
-  "gitHead": "37c03637de8b4e599e50cbaa841571783362e710"
+  "gitHead": "286cae2dcea6478e029ae3dd7d914fda3fcdd0d4"
 }
