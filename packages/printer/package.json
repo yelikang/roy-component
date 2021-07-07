@@ -1,11 +1,12 @@
 {
   "name": "roy-printer",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "93b592badd5c52629a64687f3f3633916ada3f73"
 }
