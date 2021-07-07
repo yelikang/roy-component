@@ -1,6 +1,6 @@
 {
   "name": "roy-printer",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "9df08836d3a42795c83b4f0b09050dc47cc18f2b"
+  "gitHead": "93b592badd5c52629a64687f3f3633916ada3f73"
 }
